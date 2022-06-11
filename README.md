@@ -22,3 +22,8 @@ Pliki .json zawarłem w katologu **json_files**.
 
 # Wyliczony budżet zużycia zasobów platformy Azure na jeden miesiąc
 todo...
+
+# Zrzuty ekranu działającej aplikacji
+![Screnshot 1](./screenshots/screenshot1.png)
+![Screnshot 2](./screenshots/screenshot2.png)
+![Screnshot 3](./screenshots/screenshot3.png)
