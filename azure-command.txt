@@ -1,0 +1,1 @@
+az webapp up --runtime "PHP:8.0" --os-type=linux --name=ZaliczenieAzure
